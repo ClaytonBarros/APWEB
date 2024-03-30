@@ -1,0 +1,32 @@
+/*
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+li{float:left;}
+
+li a{
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: gray;
+    color: white;
+}
+</style>
+</head>
+<body>
+
+    <h2>Seja bem vindo escolha uma opção</h2>
+
+    <ul>
+    <li><a href="1. Quem sou/quemsou.html">Quem sou?</a></li>
+    <li><a href="Formação.html">Formação</a></li>
+    <li><a href="Portifolio.html">Portifolio</a></li>
+    <li><a href="Contato.html">Contato</a></li>
+   </ul>
+   /*
